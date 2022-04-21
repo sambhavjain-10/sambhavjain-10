@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sambhav Jain
-- 🌱 I’m currently learning Full Stack Development
 
 <!---
 sambhavjain-10/sambhavjain-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
